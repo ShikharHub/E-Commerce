@@ -1,0 +1,22 @@
+*{
+    scroll-behavior: smooth;
+}
+  
+.carousel-inner {
+      position: absolute;
+      top: 0;
+      left: 0;
+      max-height: 600px;
+}
+.body{
+    background-color:#F2EAD3;
+}
+
+.backtop{
+    float: right;
+
+}
+.cart{
+    background-color: rgb(23, 22, 22);
+    color: #F2EAD3;
+}
